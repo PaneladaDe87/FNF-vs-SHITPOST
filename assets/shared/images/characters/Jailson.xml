@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jailson.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="38" y="29" width="307" height="497" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+	<SubTexture name="idle0001" x="396" y="58" width="289" height="465" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+	<SubTexture name="idle0002" x="728" y="206" width="290" height="320" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+    <SubTexture name="idle0003" x="1017" y="195" width="304" height="330" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+    <SubTexture name="down0000" x="962" y="686" width="382" height="284" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+    <SubTexture name="down0001" x="1393" y="674" width="337" height="291" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+    <SubTexture name="up0000" x="785" y="999" width="294" height="548" frameX="-4" frameY="0" frameWidth="381" frameHeight="691"/>
+</TextureAtlas>
