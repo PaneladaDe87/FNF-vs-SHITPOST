@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"orange",
+			"jailson",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bitchbox",
+			"jailson",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "easy, normal, hard, expert",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "jailson",
+	"weekName": "lol",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "lol",
+	"startUnlocked": true
+}
